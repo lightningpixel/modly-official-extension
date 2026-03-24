@@ -1,6 +1,7 @@
 {
     "trusted_repos": [
         "https://github.com/lightningpixel/modly-hunyuan3d-mini-extension",
-        "https://github.com/lightningpixel/modly-triposr-extension"
+        "https://github.com/lightningpixel/modly-triposr-extension",
+        "https://github.com/lightningpixel/modly-triposg-extension"
     ]
 }
